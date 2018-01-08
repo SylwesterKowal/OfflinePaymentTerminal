@@ -1,0 +1,14 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <offline_payment_terminal>
+                <active>1</active>
+                <model>Wm21w\OfflinePaymentTerminal\Model\OfflinePaymentTerminal</model>
+                <order_status>pending</order_status>
+                <title>Offline Payment</title>
+                <allowspecific>0</allowspecific>
+                <group>offline</group>
+            </offline_payment_terminal>
+        </payment>
+    </default>
+</config>
