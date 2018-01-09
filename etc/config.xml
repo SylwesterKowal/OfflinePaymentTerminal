@@ -5,7 +5,7 @@
                 <active>1</active>
                 <model>Wm21w\OfflinePaymentTerminal\Model\OfflinePaymentTerminal</model>
                 <order_status>pending</order_status>
-                <title>Offline Payment</title>
+                <title>Offline Payment Terminal</title>
                 <allowspecific>0</allowspecific>
                 <group>offline</group>
             </offline_payment_terminal>
